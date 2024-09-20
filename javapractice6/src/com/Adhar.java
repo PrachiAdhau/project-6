@@ -11,5 +11,10 @@ public class Adhar {
            System.out.println("Adhar Id");
 
 	}
+	public void adharName()
+	{
+           System.out.println("Adhar Name");
+
+	}
 	
 }
