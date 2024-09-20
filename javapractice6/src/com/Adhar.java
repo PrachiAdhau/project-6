@@ -6,5 +6,10 @@ public class Adhar {
 		System.out.println("Adhar class");
 	}
 	
+	public void adharId()
+	{
+           System.out.println("Adhar Id");
+
+	}
 	
 }
