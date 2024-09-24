@@ -20,5 +20,10 @@ public class Adhar {
 	{
 		System.out.print("Adhar Address");
 	}
+	public void adharnumber()
+	{
+		System.out.print("Adhar Number");
+	}
+	
 	
 }
