@@ -16,5 +16,9 @@ public class Adhar {
            System.out.println("Adhar Name");
 
 	}
+	public void adharaddress()
+	{
+		System.out.print("Adhar Address");
+	}
 	
 }
